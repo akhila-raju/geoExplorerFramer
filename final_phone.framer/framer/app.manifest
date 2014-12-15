@@ -1,0 +1,49 @@
+CACHE MANIFEST
+# 1418620528.198373
+CACHE:
+/_server/server.js
+../.temp.html
+../app.coffee
+../framer/.bowerrc
+../framer/backup.coffee
+../framer/coffee-script.js
+../framer/config.json
+../framer/framer.generated.js
+../framer/framer.js
+../framer/framer.js.map
+../framer/images/background.png
+../framer/images/cursor.png
+../framer/images/cursor@2x.png
+../framer/images/icon-120.png
+../framer/images/icon-152.png
+../framer/images/icon-76.png
+../framer/images/icon-arrow.png
+../framer/images/icon-arrow@2x.png
+../framer/images/icon-close.png
+../framer/images/icon-close@2x.png
+../framer/images/icon-framer.png
+../framer/images/icon-framer@2x.png
+../framer/images/icon-share.png
+../framer/images/icon-share@2x.png
+../framer/init.js
+../framer/mirror.css
+../framer/style.css
+../framer/version
+../images/framer-icon.png
+../imported/create vista/framerps.log
+../imported/create vista/images/Background.png
+../imported/create vista/images/description.png
+../imported/create vista/images/diff_circle.png
+../imported/create vista/images/difficulty.png
+../imported/create vista/images/difficultybar.png
+../imported/create vista/images/name.png
+../imported/create vista/images/save.png
+../imported/create vista/images/topbar.png
+../imported/create vista/images/upload.png
+../imported/create vista/images/upload_button.png
+../imported/create vista/layers.json
+../imported/create vista/layers.json.js
+../index.html
+../offline.html
+SETTINGS:
+prefer-online
